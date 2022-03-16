@@ -1,0 +1,3 @@
+zoomus
+python-dotenv
+requests
